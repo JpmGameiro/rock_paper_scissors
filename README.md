@@ -4,6 +4,7 @@ Rock Paper Scissors Game implementation
 
 In order to play it in your machine you should:
 
+- make sure you have **Java** installed ;
 - clone the project to a local folder ;
 - go to the **\rock_paper_scissors\src\main\java** directory ;
 - type: **javac RPSGame.java** ;
