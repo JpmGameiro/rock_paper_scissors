@@ -4,10 +4,10 @@ Rock Paper Scissors Game implementation
 
 In order to play it in your machine you should:
 
-- clone the project to a local folder;
-- go to the **\rock_paper_scissors\src\main\java** directory;
-- type: javac RPSGame.java;
-- and then: java RPSGame.
+- clone the project to a local folder ;
+- go to the **\rock_paper_scissors\src\main\java** directory ;
+- type: **javac RPSGame.java** ;
+- and then: **java RPSGame** .
 
 You should see a message similar to this one:
 
